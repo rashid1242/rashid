@@ -8,3 +8,5 @@ docker pull rashiditself/simple-python-flask-app:latest:latest
 docker run -d -p 5000:5000 rashiditself/simple-python-flask-app:latest
 
 
+
+
